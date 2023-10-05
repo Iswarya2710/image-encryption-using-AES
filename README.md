@@ -1,6 +1,3 @@
-# image-encryption-using-AES
-.
-.
 # Image Encryption using AES Algorithm  
 ❖ To study the working of AES algorithm.  
 ❖ To Encrypt and then decrypt a digital image using
